@@ -9,3 +9,6 @@
 - The application connects to RDS through the application.properties file
 - The build details came from the buildspec.yml file
 
+## Source Code
+- https://github.com/hkhcoder/vprofile-project/tree/aws-ci
+
